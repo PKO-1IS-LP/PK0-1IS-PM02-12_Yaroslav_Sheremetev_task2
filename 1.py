@@ -2,7 +2,7 @@ from tkinter import *
 
 root = Tk()
 
-root.title("Заголовок приложени")
+root.title("Заголовок приложения")
 
 root.geometry("300x250")
 
